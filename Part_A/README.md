@@ -11,7 +11,8 @@ Part_A/
 ├── train_final.py    # Final model training script
 ├── test_final.py     # Testing script for final model
 ├── test_sweep_best_model_raw.py  # Testing script for sweep's best model
-├── train_test_sweep_best_model.py # Extended training script for sweep's best model
+├── train_sweep_best_model.py # Extended training script for sweep's best model
+├── test_sweep_retrained.py # Testing script of Extended trained sweep's best model
 └── README.md         # Project documentation
 ```
 
