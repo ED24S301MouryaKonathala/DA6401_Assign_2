@@ -1,6 +1,9 @@
 # DA6401_Assign_2
 # Deep Learning Assignment 2
 ## Part A and Part B files in PartA and PartB branches.
+
+## [WandB Report Link](https://wandb.ai/mourya001-indian-institute-of-technology-madras/Assign_2_Part_A_iNaturalist_CNN/reports/DA6401-Assignment-2--VmlldzoxMjM0NTUwNg?accessToken=ynvraj4qtskjdsnoacp5670p82ufh5p327c2p96vmoso1yvrr36v8bg93ylrp1ed)
+
 This repository contains implementations of deep learning models for the iNaturalist dataset classification task, exploring both custom CNN development and transfer learning approaches.
 
 ---
